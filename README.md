@@ -3,5 +3,5 @@
 Participantes: 
 
 - *Rafael Sinhorini*
-- Davidson Salvador
-- João Victor
+- *Davidson Salvador*
+- *João Victor*
