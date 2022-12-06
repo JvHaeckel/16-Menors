@@ -1,4 +1,4 @@
-# Pasta de todos os nossos projetos
+# Nossos projetos
 
 Participantes: 
 
